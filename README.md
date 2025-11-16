@@ -236,6 +236,11 @@ You can test the API using:
 
 ## Admin Panel
 
+## Sample Testing outputs
+
+<img width="1920" height="1080" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/6b493a8f-0f7d-4f21-8f4a-de172aa2d380" />
+
+
 Access the Django admin panel at `/admin/` after creating a superuser.
 
 ## License
