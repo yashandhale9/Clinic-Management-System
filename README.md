@@ -251,3 +251,7 @@ Access the Django admin panel at `/admin/` after creating a superuser.
 
 This project is open source and available for use.
 
+## Developed By 
+
+Yash Andhale
+
